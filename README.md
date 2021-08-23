@@ -12,4 +12,6 @@
 * https://developer.mozilla.org/en-US/docs/Web/API/File
 
 ### Tasks
-* Create a page, with three lists(todo, in progress, done), those lists should have some task, <br> User can move tasks with drag drop and also user can right click on the tasks and then choose from the context menu to which list user want to move the task, or want to delete. The user also can add new tasks, create plus buttons under the lists when user clicks it open an input for user to add task name.
+* https://getbootstrap.com/docs/5.0/components/navs-tabs/#javascript-behavior
+* https://getbootstrap.com/docs/5.0/components/carousel/
+* Create a page, with three lists(todo, in progress, done), those lists should have some task, <br> User can move tasks with drag drop and also user can right click on the tasks and then choose from the context menu to which list user want to move the task, or want to delete or archive the task, there should be a restore archived button also, but it should restore elements to the lists where they have been removed from. The user also can add new tasks, create plus buttons under the lists when user clicks it open an input for user to add task name.
